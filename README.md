@@ -233,8 +233,6 @@ graph TD
 
 ---
 
----
-
 ## 🧱 Mechanical Design & FEA Analysis
 
 <div align="left">
